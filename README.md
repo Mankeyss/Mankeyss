@@ -2,8 +2,6 @@
 
 <img align="left" width="47%" src="(https://github-readme-stats.vercel.app/api?username=Mankeyss&show_icons=true&theme=transparent)" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mankeyss&show_icons=true&theme=transparent)
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <!--
