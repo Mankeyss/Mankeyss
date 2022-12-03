@@ -10,8 +10,9 @@ I'm looking for a part-time job, if you got one for me, feel free to contact me.
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-\n
+
 ```javascript
+                    
 console.log("Hello world! 👋")
 ```javascript
 
