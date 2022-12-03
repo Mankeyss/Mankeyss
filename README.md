@@ -13,9 +13,10 @@ I'm looking for a part-time job, if you got one for me, feel free to contact me.
 
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
-```javascript
+<img align="left" src="```javascript
 console.log("Hello world! 👋")
-```javascript
+```javascript" />
+
 
 <!--
 **Mankeyss/Mankeyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
