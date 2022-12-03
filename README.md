@@ -11,7 +11,7 @@ I'm looking for a part-time job, if you got one for me, feel free to contact me.
 
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 
-<a href=#><img src="contributions.svg"></a>
+<img align="left" src="contributions.svg"/>
 
 <!--
 **Mankeyss/Mankeyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
