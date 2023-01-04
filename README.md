@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*5+ years experience of software engineering*
+*I've got 5+ years experience of software engineering :D*
 
 I'm looking for a part-time job, if you got one for me, feel free to contact me.
 
