@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 *I've got 5+ years experience of software engineering 😀*
 
