@@ -14,6 +14,8 @@
 
 <img align="left" src="contributions.svg"/>
 
+<img align="left" src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif" style="width: 250px; object-fit: scale-down;">
+
 <!--
 **Mankeyss/Mankeyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
