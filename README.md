@@ -13,7 +13,7 @@
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 
 <img align="left" src="contributions.svg"/>
-<br>
+<br />
 [![Discord](https://img.shields.io/badge/Discord:%20@mankeyss-4d78e3)
 
 <!--
