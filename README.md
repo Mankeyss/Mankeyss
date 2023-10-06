@@ -14,7 +14,7 @@
 
 <img align="left" src="contributions.svg"/>
 
-[![Discord](https://lanyard.cnrad.dev/api/848230125370867712)](https://discord.com/users/848230125370867712)
+[![Discord Presence](https://lanyard.cnrad.dev/api/848230125370867712)](https://discord.com/users/848230125370867712)
 
 <!--
 **Mankeyss/Mankeyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
