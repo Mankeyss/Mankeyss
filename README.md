@@ -16,6 +16,11 @@
 
 [![Discord](https://img.shields.io/badge/Discord:%20@mankeyss-4d78e3)
 
+<h3 align="left">Contact me:</h3>
+<p align="left">
+<a href="https://twitter.com/home" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40"/></a>
+</p>
+
 <!--
 **Mankeyss/Mankeyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
